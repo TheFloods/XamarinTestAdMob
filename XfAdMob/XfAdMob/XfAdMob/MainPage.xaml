@@ -6,11 +6,10 @@
              mc:Ignorable="d"
              x:Class="XfAdMob.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
+    <!--<StackLayout>
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    </StackLayout>-->
 
 </ContentPage>

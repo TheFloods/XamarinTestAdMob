@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FfeGPhUg4WVZVhg+TedxTQQ20qic3BbO47epENN6wRAxVZfwh3uSQLUal4clOJ1Xm1q4+dWF4OEnGIheRtRbvg==",
+  "dgSpecHash": "6Prs/UEXBnA42yLTKk7899yxrswwu8HqK7LhHpOuK8Dh8DWcAyGFXrz2R5xWTRJ/pzhoeUbiYYyaDJ6OMO9HxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\TheFloods\\source\\repos\\TestAdMob\\XamarinTestAdMob\\XfAdMob\\XfAdMob\\XfAdMob.Android\\XfAdMob.Android.csproj",
   "expectedPackageFiles": [
@@ -42,8 +42,28 @@
     "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.android.support.vector.drawable\\28.0.0.3\\xamarin.android.support.vector.drawable.28.0.0.3.nupkg.sha512",
     "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.firebase.ads\\71.1601.0\\xamarin.firebase.ads.71.1601.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.firebase.analytics\\71.1606.0\\xamarin.firebase.analytics.71.1606.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.firebase.analytics.impl\\71.1624.0\\xamarin.firebase.analytics.impl.71.1624.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.firebase.common\\71.1610.0\\xamarin.firebase.common.71.1610.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.firebase.iid\\71.1710.0\\xamarin.firebase.iid.71.1710.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.firebase.iid.interop\\71.1601.0\\xamarin.firebase.iid.interop.71.1601.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.google.autovalue.annotations\\1.6.5\\xamarin.google.autovalue.annotations.1.6.5.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.ads\\71.1712.0\\xamarin.googleplayservices.ads.71.1712.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.ads.base\\71.1712.0\\xamarin.googleplayservices.ads.base.71.1712.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.ads.identifier\\71.1600.0\\xamarin.googleplayservices.ads.identifier.71.1600.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.ads.lite\\71.1712.0\\xamarin.googleplayservices.ads.lite.71.1712.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.base\\71.1610.0\\xamarin.googleplayservices.base.71.1610.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.basement\\71.1620.0\\xamarin.googleplayservices.basement.71.1620.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.gass\\71.1712.0\\xamarin.googleplayservices.gass.71.1712.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.measurement.api\\71.1604.0\\xamarin.googleplayservices.measurement.api.71.1604.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.measurement.base\\71.1605.0\\xamarin.googleplayservices.measurement.base.71.1605.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.measurement.sdk.api\\71.1604.0\\xamarin.googleplayservices.measurement.sdk.api.71.1604.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.stats\\71.1601.0\\xamarin.googleplayservices.stats.71.1601.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\xamarin.googleplayservices.tasks\\71.1601.0\\xamarin.googleplayservices.tasks.71.1601.0.nupkg.sha512"
   ],
   "logs": []
 }

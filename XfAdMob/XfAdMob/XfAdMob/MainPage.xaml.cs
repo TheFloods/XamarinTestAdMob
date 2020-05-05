@@ -16,6 +16,18 @@ namespace XfAdMob
         public MainPage()
         {
             InitializeComponent();
+            AdmobControl admobControl = new AdmobControl()
+            {
+                AdUnitId = "ca-app-pub-3940256099942544/6300978111"
+            };
+            Label adLabel = new Label() { Text = "Ads will be displayed here!" };
+
+            Content = new StackLayout()
+            {
+                Children = { adLabel, admobControl }
+            };
+
+            this.Title = "Admob Page";
         }
     }
 }

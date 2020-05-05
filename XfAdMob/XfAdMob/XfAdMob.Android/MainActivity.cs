@@ -1,11 +1,8 @@
-﻿using System;
-
-using Android.App;
+﻿using Android.App;
 using Android.Content.PM;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
+using Android.Gms.Ads;
 using Android.OS;
+using Android.Runtime;
 
 namespace XfAdMob.Droid
 {
@@ -18,6 +15,8 @@ namespace XfAdMob.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+
+            MobileAds.Initialize(ApplicationContext, "ca-app-pub-3940256099942544~3347511713"); // sample AdMob ID : ca-app-pub-3940256099942544~3347511713 -> https://developers.google.com/admob/android/quick-start
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);

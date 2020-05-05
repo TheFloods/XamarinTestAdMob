@@ -1,0 +1,14 @@
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\bin\Debug\netstandard2.0\XfAdMob.deps.json
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\bin\Debug\netstandard2.0\XfAdMob.dll
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\bin\Debug\netstandard2.0\ref\XfAdMob.dll
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\bin\Debug\netstandard2.0\XfAdMob.pdb
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XfAdMob.csprojAssemblyReference.cache
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XfAdMob.csproj.CoreCompileInputs.cache
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XfAdMob.AssemblyInfoInputs.cache
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XfAdMob.AssemblyInfo.cs
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XfAdMob.dll
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\ref\XfAdMob.dll
+C:\Users\TheFloods\source\repos\TestAdMob\XamarinTestAdMob\XfAdMob\XfAdMob\XfAdMob\obj\Debug\netstandard2.0\XfAdMob.pdb
