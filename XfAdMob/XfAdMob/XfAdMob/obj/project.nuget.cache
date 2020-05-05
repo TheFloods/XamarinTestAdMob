@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TyQegyNsTX22WQuu/8ehlXucV8WsC0si5awTPr1bTzdei6cRbqFT24x/thnuLSiWmnV7NVUYapNhePsJo9kQzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheFloods\\source\\repos\\TestAdMob\\XamarinTestAdMob\\XfAdMob\\XfAdMob\\XfAdMob\\XfAdMob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheFloods\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\TheFloods\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
